@@ -1,4 +1,4 @@
-# 👋 Hi, I'm MD Rifat Hossain Khan
+# 👋 Hi, I'm Rifat Hossain Khan
 
 <div align="center">
 
