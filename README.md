@@ -58,25 +58,36 @@ I enjoy building **user-focused applications, web systems, mobile applications, 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rifathossaikhan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=58A6FF&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rifathossainkhan&theme=radical" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifathossaikhan&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="180"/>
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rifathossainkhan&theme=radical" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rifathossainkhan&theme=radical" />
 
 </div>
 
 <br>
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=rifathossaikhan&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=00D9FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<a href="https://github.com/rifathossaikhan">
+<img height="200"
+src="https://github-readme-stats.vercel.app/api?username=rifathossaikhan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=00D9FF&text_color=C9D1D9"/>
+</a>
+
+<a href="https://github.com/rifathossaikhan">
+<img height="200"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifathossaikhan&layout=pie&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+</a>
 
 </div>
-
-<br>
 
 ## 📈 Contribution Activity
 
