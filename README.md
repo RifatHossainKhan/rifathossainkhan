@@ -143,7 +143,7 @@ I enjoy turning ideas into practical applications and continuously improving my 
 <a href="https://github.com/rifathossainkhan">
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api?username=rifathossainkhan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=58A6FF"
+src="https://github-readme-stats.vercel.app/api?username=rifathossainkhan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=58A6FF&count_private=true&include_all_commits=true&cache_seconds=1800"
 alt="Rifat's GitHub Stats">
 
 </a>
@@ -151,7 +151,7 @@ alt="Rifat's GitHub Stats">
 <a href="https://github.com/rifathossainkhan">
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifathossainkhan&layout=pie&langs_count=6&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifathossainkhan&layout=pie&langs_count=6&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&count_private=true&cache_seconds=1800"
 alt="Rifat's Top Languages">
 
 </a>
@@ -166,7 +166,7 @@ alt="Rifat's Top Languages">
 
 <a href="https://github.com/rifathossainkhan">
 
-<img src="https://streak-stats.demolab.com/?user=rifathossainkhan&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=00D9FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
+<img src="https://streak-stats.demolab.com/?user=rifathossainkhan&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=00D9FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&mode=daily"
 alt="GitHub Streak">
 
 </a>
@@ -200,3 +200,6 @@ alt="GitHub Contribution Activity">
         Intelligent Systems
                  ↓
        Real-World Applications
+```
+
+</div>
