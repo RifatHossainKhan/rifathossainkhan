@@ -58,15 +58,19 @@ I enjoy building **user-focused applications, web systems, mobile applications, 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
-![Rifat's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github_dark&hide_border=false)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rifathossainkhan&theme=radical" />
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br><br>
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rifathossainkhan&theme=radical" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rifathossainkhan&theme=radical" />
+
+</div>
 
 ## 🎯 Current Focus
 
