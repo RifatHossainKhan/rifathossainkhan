@@ -167,11 +167,13 @@ alt="Rifat's Top Languages">
 <a href="https://github.com/rifathossainkhan">
 
 <img src="https://streak-stats.demolab.com/?user=rifathossainkhan&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=00D9FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&mode=daily"
-alt="GitHub Streak">
+alt="GitHub Streak Stats"
+width="500">
 
 </a>
 
 </div>
+
 
 ---
 
