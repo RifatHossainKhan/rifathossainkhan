@@ -141,14 +141,15 @@ I enjoy turning ideas into practical applications and continuously improving my 
 <div align="center">
 
 <a href="https://github.com/rifathossainkhan">
-  <img height="180" src="https://YOUR-PROJECT.vercel.app/api?username=rifathossainkhan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="Rifat's GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rifathossainkhan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="Rifat's GitHub Stats"/>
 </a>
 
 <a href="https://github.com/rifathossainkhan">
-  <img height="180" src="https://YOUR-PROJECT.vercel.app/api/top-langs/?username=rifathossainkhan&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Rifat's Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifathossainkhan&layout=pie&langs_count=6&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Rifat's Top Languages"/>
 </a>
 
 </div>
+
 
 # 🔥 GitHub Streak
 
